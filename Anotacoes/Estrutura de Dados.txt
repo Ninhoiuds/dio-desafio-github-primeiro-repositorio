@@ -1,0 +1,37 @@
+# Estrutura de Dados :minidisc:
+
+- Pode ser organizada em qualquer dispositivo  de armazenamento.
+
+
+
+# Algoritmo 
+
+- Conjunto de instruções organizadas e ordenadas com objetivo de realizar uma tarefa.
+
+
+
+# Principais Estruturas de dados
+
+
+
+	## Vetores, Matrizes e Arrays
+
+- São estruturas de dados simples que podem auxiliar quando há muitas variáveis 				do mesmo tipo de algoritmos.	
+
+## Registros
+
+- Registro é uma estrutura  que fornece um formato especializado para armazenar 				informações em memória.
+
+## Listas
+
+- Listas armazenam dados de um determinado tipo em uma ordem específica. Diferença entre **listas** e **arrays** é de que a listas possuem tamanho ajustável e arrays tamanho fixo. 
+- Listas podem ser **Ligadas** ou **Duplamente Ligadas**.
+
+## Pilha
+
+Serve como coleção de elementos permite acesso a somente um item por vez.
+
+## Estrutura Árvore
+
+É uma estrutura de dados que organiza deus elementos de forma hierarquica.
+
